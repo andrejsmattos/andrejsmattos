@@ -6,6 +6,7 @@
 
 Sou um desenvolvedor FullStack com foco em Back-End, apaixonado por transformar ideias e projetos em produtos reais através do código. Busco constantemente crescer tanto na área de desenvolvimento quanto no âmbito pessoal.
 
+---
 
 ### 📊 GitHub Stats
 
@@ -13,6 +14,7 @@ Sou um desenvolvedor FullStack com foco em Back-End, apaixonado por transformar 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejsmattos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+---
 
 ### 🚀 Tecnologias & Ferramentas
 
@@ -22,6 +24,8 @@ Sou um desenvolvedor FullStack com foco em Back-End, apaixonado por transformar 
 **Back-end:** ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Ferramentas:** ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
 
 ### 🌟 Principais Projetos
 
@@ -33,6 +37,8 @@ Sou um desenvolvedor FullStack com foco em Back-End, apaixonado por transformar 
 [![Encriptador Card](https://github-readme-stats.vercel.app/api/pin/?username=andrejsmattos&repo=encriptador-texto&theme=dracula)](https://github.com/andrejsmattos/encriptador-texto)
 
 </div>
+
+---
 
 ### 🎓 Formação
 
@@ -49,15 +55,13 @@ Sou um desenvolvedor FullStack com foco em Back-End, apaixonado por transformar 
   - Práticas de versionamento e gestão de projetos
   - Programa com aulas virtuais assíncronas 
 
-### 💡 Destaques
-
-- Experiência com desenvolvimento Full Stack
-- Metodologias ágeis e gestão de projetos
-- Comprometimento com aprendizado contínuo
+---
 
 ### 🏃‍♂️ Curiosidade
 
 Nas horas vagas, sou entusiasta de hiking! Em 2019, completei uma jornada incrível de 800km no Caminho de Santiago de Compostela em 30 dias - uma experiência que me ensinou muito que com constância e consistência, pequenos passos nos levam muito longe.
+
+---
 
 ### 📫 Contato
 
@@ -74,10 +78,6 @@ Nas horas vagas, sou entusiasta de hiking! Em 2019, completei uma jornada incrí
 </div>
 
 ---
-
-<div align="left-align">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrejsmattos&theme=dracula" alt="GitHub Streak Stats"/>
-</div>
 
 <div align="left-align">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrejsmattos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
