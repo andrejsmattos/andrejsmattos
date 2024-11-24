@@ -49,7 +49,7 @@ Sou um desenvolvedor FullStack com foco em Back-End, apaixonado por transformar 
   - Stack completa: Front-end e Back-end
   - Programa com aulas virtuais síncronas 
 
-- **Oracle Next Education (ONE)** - Formação Back-end (560h)
+- **Alura e Oracle Next Education (ONE)** - Formação Back-end (560h)
   - Programa focado em desenvolvimento Back-end
   - Java, SQL, Spring Framework
   - Práticas de versionamento e gestão de projetos
