@@ -6,21 +6,22 @@
 
 Sou um desenvolvedor FullStack com foco em Back-End, apaixonado por transformar ideias e projetos em produtos reais através do código. Busco constantemente crescer tanto na área de desenvolvimento quanto no âmbito pessoal.
 
+
 ### 📊 GitHub Stats
 
 <div align="left-align">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrejsmattos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejsmattos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+
 ### 🚀 Tecnologias & Ferramentas
 
-### **Front-end:** ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Front-end:** ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Back-end:** ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Back-end:** ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Ferramentas:** ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Ferramentas:** ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🌟 Principais Projetos
 
@@ -38,13 +39,15 @@ Sou um desenvolvedor FullStack com foco em Back-End, apaixonado por transformar 
 - **LAB365 (SENAI/SC)** - Desenvolvimento FullStack (900 horas)
   - Programa intensivo com foco em desenvolvimento web completo
   - Projetos práticos com tecnologias modernas
-  - Apresentações em meetups para público de ~100 pessoas
-  - Stack completa: Front-end, Back-end
+  - Apresentações presenciais em meetups para público de ~100 pessoas
+  - Stack completa: Front-end e Back-end
+  - Programa com aulas virtuais síncronas 
 
-- **Oracle Next Education (ONE)** - Formação Back-end
-  - Programa de 560 horas focado em desenvolvimento Back-end
+- **Oracle Next Education (ONE)** - Formação Back-end (560h)
+  - Programa focado em desenvolvimento Back-end
   - Java, SQL, Spring Framework
   - Práticas de versionamento e gestão de projetos
+  - Programa com aulas virtuais assíncronas 
 
 ### 💡 Destaques
 
@@ -58,7 +61,7 @@ Nas horas vagas, sou entusiasta de hiking! Em 2019, completei uma jornada incrí
 
 ### 📫 Contato
 
-<div align="left">
+<div align="left-align">
   <a href="https://www.linkedin.com/in/andrejsmattos" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -72,10 +75,10 @@ Nas horas vagas, sou entusiasta de hiking! Em 2019, completei uma jornada incrí
 
 ---
 
-<div align="center">
+<div align="left-align">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrejsmattos&theme=dracula" alt="GitHub Streak Stats"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andrejsmattos&theme=dracula&row=1&column=6" alt="Github Trophy" />
+<div align="left-align">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrejsmattos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
