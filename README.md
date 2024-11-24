@@ -8,8 +8,6 @@ Sou um desenvolvedor FullStack com foco em Back-End, apaixonado por transformar 
 
 ---
 
-___
-
 ### 📊 GitHub Stats
 
 <div align="left-align">
