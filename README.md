@@ -1,7 +1,7 @@
 # Olá, me chamo André Mattos! 👋 
 
 <div align="left-align">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Desenvolvedor+FullStack;JavaScript+%7C+Java+%7C+Angular+%7C+Spring;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Desenvolvedor+FullStack;Java+%7C+Spring+%7C+JavaScript+%7C+Angular;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </div>
 
 Sou um desenvolvedor FullStack com foco em Back-End, apaixonado por transformar ideias e projetos em produtos reais através do código. Busco constantemente crescer tanto na área de desenvolvimento quanto no âmbito pessoal.
