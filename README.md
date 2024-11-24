@@ -63,6 +63,12 @@ Nas horas vagas, sou entusiasta de hiking! Em 2019, completei uma jornada incrí
 
 ---
 
+<div align="left-align">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrejsmattos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+---
+
 ### 📫 Contato
 
 <div align="left-align">
@@ -75,10 +81,4 @@ Nas horas vagas, sou entusiasta de hiking! Em 2019, completei uma jornada incrí
   <a href="https://github.com/andrejsmattos" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</div>
-
----
-
-<div align="left-align">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrejsmattos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
