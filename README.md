@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&left=true&vCenter=true&width=435&lines=Desenvolvedor+Backend;Java+%7C+Spring+%7C+JavaScript+%7C+Angular;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </div>
 
-Sou um Desenvolvedor Back-End, apaixonado por transformar ideias e projetos em produtos reais através do código.
+Sou um Desenvolvedor Backend, apaixonado por transformar ideias e projetos em produtos reais através do código.
 
 ---
 
