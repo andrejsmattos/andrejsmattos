@@ -33,7 +33,6 @@ Sou um Desenvolvedor Backend, apaixonado por transformar ideias e projetos em pr
 [![HealthLab Card](https://github-readme-stats.vercel.app/api/pin/?username=FullStack-Health&repo=M3P-BackEnd-Squad4&theme=dracula)](https://github.com/FullStack-Health/M3P-BackEnd-Squad4)
 [![HealthLab Frontend Card](https://github-readme-stats.vercel.app/api/pin/?username=FullStack-Health&repo=M3P-FrontEnd-Squad4&theme=dracula)](https://github.com/FullStack-Health/M3P-FrontEnd-Squad4)
 [![Music Box Card](https://github-readme-stats.vercel.app/api/pin/?username=andrejsmattos&repo=music-box&theme=dracula)](https://github.com/andrejsmattos/music-box)
-[![LibriHub Card](https://github-readme-stats.vercel.app/api/pin/?username=andrejsmattos&repo=LibriHub&theme=dracula)](https://github.com/andrejsmattos/LibriHub)
 
 </div>
 
