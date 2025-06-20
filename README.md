@@ -41,18 +41,39 @@ Sou um Desenvolvedor Backend, apaixonado por transformar ideias e projetos em pr
 
 ### 🎓 Formação
 
-- **LAB365 (SENAI/SC)** - Desenvolvimento FullStack (900 horas)
-  - Programa intensivo com foco em desenvolvimento web completo
-  - Projetos práticos com tecnologias modernas
-  - Apresentações presenciais em meetups para público de ~100 pessoas
-  - Stack completa: Front-end e Back-end
-  - Programa com aulas virtuais síncronas 
+- **LAB365 (SENAI/SC)** - Desenvolvimento FullStack (900 horas)  
+  - Programa intensivo com foco em desenvolvimento web completo  
+  - Projetos práticos com tecnologias modernas  
+  - Apresentações presenciais em meetups para público de ~100 pessoas  
+  - Stack completa: Front-end e Back-end  
+  - Programa com aulas virtuais síncronas  
 
-- **Alura e Oracle Next Education (ONE)** - Formação Back-end (560h)
-  - Programa focado em desenvolvimento Back-end
-  - Java, SQL, Spring Framework
-  - Práticas de versionamento e gestão de projetos
-  - Programa com aulas virtuais assíncronas 
+- **Alura e Oracle Next Education (ONE)** - Formação Back-end (560 horas)  
+  - Programa focado em desenvolvimento Back-end  
+  - Java, SQL, Spring Framework  
+  - Práticas de versionamento e gestão de projetos  
+  - Programa com aulas virtuais assíncronas  
+
+- **Talento Cloud Pro (AWS e Proz Tecnologia)** - Introdução à Programação e Nuvem AWS (300 horas, dez/2024 - mai/2025)  
+  - Curso intensivo com foco em fundamentos de programação, computação em nuvem e habilidades socioemocionais  
+  - Lógica de programação, algoritmos, Python, HTML, CSS, JavaScript  
+  - Banco de dados: SQL e PostgreSQL  
+  - Projeto integrador com aplicação prática  
+  - Programa com aulas virtuais síncronas  
+
+- **Escola da Nuvem | AWS re/Start** - Fundamentos em Tecnologia e Computação na Nuvem + IA (mar/2025 - set/2025)  
+  - Programa intensivo em computação em nuvem e fundamentos de Inteligência Artificial  
+  - Serviços principais da AWS: armazenamento, computação, redes, segurança e governança  
+  - Fundamentos de Linux, programação em Python e automação na nuvem  
+  - Introdução a IA e Machine Learning na AWS com uso de serviços como Bedrock, Textract, Comprehend, Polly e Lex  
+  - Preparação para certificação AWS Certified Cloud Practitioner  
+
+- **DIO | Santander Bootcamp** - Back-End com Java (100 horas - em andamento)  
+  - Fundamentos de Java  
+  - Criação de APIs RESTful com Spring Boot  
+  - Integração com bancos de dados SQL e NoSQL  
+  - Boas práticas: SOLID, testes unitários  
+  - Mentorias ao vivo, desafios práticos e projetos reais  
 
 ---
 
