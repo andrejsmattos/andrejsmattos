@@ -1,6 +1,6 @@
 # Olá, me chamo André Mattos! 👋
 
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=FullStack+Developer+%7C+Backend+Focused;Java+%7C+Spring+Boot+%7C+Python+%7C+FastAPI;AWS+Certified+%7C+Cloud+%7C+DevOps;Construindo+soluções+escaláveis+e+inteligentes" />
 </div>
 
