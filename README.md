@@ -37,7 +37,7 @@ Atuo desenvolvendo APIs, aplicações web e soluções com IA, sempre aplicando 
 
 # ☁️ Certificações AWS
 
-<div align="center">
+<div align="left">
 
 <a href="https://www.credly.com/badges/b18252b4-10bc-421b-896e-c6ae70913bcf/public_url">
   <img src="./assets/aws/aws-cloud-practitioner.png" width="180"/>
